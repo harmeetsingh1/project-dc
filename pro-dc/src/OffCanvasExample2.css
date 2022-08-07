@@ -1,0 +1,42 @@
+.ofcs{
+    background-color: rgb(21,176,119);
+    color: white;
+    border-color: rgb(21,176,119);
+    font-size:larger;
+}
+
+.ofcs:hover{
+    background-color: rgb(21,176,119);
+    border-color: rgb(21,176,119);
+    cursor: pointer;
+}
+
+.dm1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+
+.btns{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.btns:hover{
+    background-color:rgb(21,176,119);
+    border-color: rgb(21,176,119);
+}
+
+.wdl{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 10px;
+    text-decoration: underline;
+    color: darkgray;
+    font-size: smaller;
+    cursor: pointer;
+}

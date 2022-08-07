@@ -1,0 +1,61 @@
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+.images{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+
+.card-title, .card-title2, .btn.btnn{
+    display: inline-block;
+}
+
+.card-title2{
+    padding-left: 20px;
+    color: rgb(179, 171, 171);
+    text-decoration: line-through;
+}
+
+.card-text{
+    font-size: xx-small;
+    color: rgb(179, 171, 171);
+}
+
+.card{
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+   
+}
+
+.offcanvas-backdrop.show {
+    opacity: .5;
+}
+
+#root{
+    padding-top: 30px;
+    padding-bottom: 40px; 
+     margin-bottom: 20px;
+
+}
+
+.btn.btnn{
+    background-color: rgb(21,176,119);
+    color: white;
+    height: 30px;
+    width: 70px;
+    font-size: 12px;
+    font-weight: 600;
+    border-color:rgb(21,176,119); 
+    
+}
+
+.del{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}

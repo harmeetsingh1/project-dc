@@ -1,0 +1,70 @@
+.pts2{
+    color: black;
+    background-color: black;
+}
+svg.bi.bi-arrow-left{
+     color: black;
+     background-color: white;
+     position:sticky;
+     display: flexbox;
+}
+
+button.pts{
+    background-color: white;
+    border: none;
+}
+ 
+.top1, .pts{
+    display: inline-block;
+    
+}
+
+.top{
+    justify-content: center;
+    padding-left: 5px;
+}
+
+.mid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: baseline;
+    justify-content: flex-start;
+    padding-right: 5px;
+}
+
+.pu{
+    font-size: small;
+    padding-top: 30px;
+    padding-left: 10px;
+    color: lightslategray;
+}
+
+.pu1{
+    font-size: smaller;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.pu2{
+    font-size: x-small;
+    color: lightslategray;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+
+.fon1{
+    font-size: small;
+    padding-bottom: 5px;
+}
+
+.fon2{
+    font-size: small;
+    font-weight: 600;
+}
+
+.vari{
+    padding-bottom: 10px;
+}
+
